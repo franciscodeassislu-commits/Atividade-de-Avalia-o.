@@ -24,6 +24,9 @@ Página desenvolvida como atividade prática para treinar os conceitos fundament
 * Git & GitHub
 
 ---
+## 📄 Novas Páginas e Desafios
+
+Nesta etapa, adicionei o arquivo `dificil.html` para documentar as dificuldades enfrentadas durante o desenvolvimento (como problemas de responsividade, sobreposição de cards e alinhamento de textos). O objetivo principal foi consolidar o fluxo de versionamento com Git e GitHub, priorizando a prática de commit e push em vez de um layout perfeito.
 
 ## 📄 Autor
 
